@@ -1,3 +1,5 @@
+package leetcode_75.easy.greatest_common_divisor_of_strings.kotlin
+
 class Solution {
     fun gcdOfStrings(str1: String, str2: String): String {
         if (str1 + str2 != str2 + str1) {
