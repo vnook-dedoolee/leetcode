@@ -1,4 +1,4 @@
-package leetcode_75.easy.reverse_words_in_a_string.kotlin
+package leetcode_75.medium.reverse_words_in_a_string.kotlin
 
 class Solution {
     fun reverseWords(s: String): String {
