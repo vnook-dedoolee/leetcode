@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/greatest-common-divisor-of-strings/description/?envType=study-plan-v2&envId=leetcode-75
+
 package leetcode_75.easy.greatest_common_divisor_of_strings.kotlin
 
 class Solution {
