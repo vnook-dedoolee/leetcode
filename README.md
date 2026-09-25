@@ -1,1 +1,1 @@
-### Задачи с сайта https://leetcode.com/
+### Задачи с сайта https://leetcode.com
