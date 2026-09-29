@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/container-with-most-water/submissions/2156775236/?envType=study-plan-v2&envId=leetcode-75
 
-package leetcode_75.medium.kotlin
+package leetcode_75.medium.container_with_most_water.kotlin
 
 import kotlin.math.min
 import kotlin.math.max
