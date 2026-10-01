@@ -2,8 +2,6 @@
 
 package leetcode_75.medium.max_consecutive_ones_iii.kotlin
 
-import kotlin.math.max
-
 class Solution {
     fun longestOnes(nums: IntArray, k: Int): Int {
         var maxNumsOfCons = 0
