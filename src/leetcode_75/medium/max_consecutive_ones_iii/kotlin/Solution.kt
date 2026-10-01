@@ -22,7 +22,3 @@ class Solution {
         return maxNumsOfCons
     }
 }
-
-fun main() {
-    Solution().longestOnes(intArrayOf(1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0) ,2)
-}
