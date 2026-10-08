@@ -1,16 +1,17 @@
-# IDEA
+# IntelliJ IDEA
 .idea/
 *.iml
 *.iws
 *.ipr
 
-# Build
+# Build output
 out/
 build/
 target/
 
 # Compiled
 *.class
+*.kotlin_module
 
 # OS
 .DS_Store
