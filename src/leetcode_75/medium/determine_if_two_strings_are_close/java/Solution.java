@@ -2,6 +2,11 @@
 
 package leetcode_75.medium.determine_if_two_strings_are_close.java;
 
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.HashMap;
+import java.util.Map;
+
 public class Solution {
     public boolean closeStrings(String word1, String word2) {
         Map<Character, Integer> char_count_of_word1 = new HashMap<>();
