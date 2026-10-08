@@ -20,7 +20,3 @@ class Solution {
         return raw.toIntArray()
     }
 }
-
-fun main() {
-    Solution().equalPairs(arrayOf(intArrayOf(3, 2, 1), intArrayOf(1, 7, 6), intArrayOf(2, 7, 7)))
-}
