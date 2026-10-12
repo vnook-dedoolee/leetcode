@@ -37,9 +37,3 @@ class Solution {
         return current.toString()
     }
 }
-
-fun main() {
-    Solution().decodeString("3[a]2[bc]") // "aaabcbc"
-    Solution().decodeString("3[a2[c]]") // "accaccacc"
-    Solution().decodeString("2[abc]3[cd]ef") // "abcabccdcdcdef"
-}
