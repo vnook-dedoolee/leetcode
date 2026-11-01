@@ -15,10 +15,10 @@ class Solution {
                 pathSum(root.right, targetSum)
     }
 
-    private fun cnt(node: TreeNode?, remaining: Long): Int {
+    private fun cnt(node: TreeNode?, targetSum: Long): Int {
         if (node == null) return 0
         var result = 0
-        val diff = remaining - node.`val`
+        val diff = targetSum - node.`val`
         if (diff == 0L) result++
         result += cnt(node.left, diff)
         result += cnt(node.right, diff)
