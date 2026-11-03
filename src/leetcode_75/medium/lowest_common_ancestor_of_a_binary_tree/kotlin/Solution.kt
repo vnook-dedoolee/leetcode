@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/?envType=study-plan-v2&envId=leetcode-75
 
-package leetcode_75.medium.lowest_common_ancestor_of_a_lowest_common_ancestor_of_a_binary_treebinary_tree.kotlin
+package leetcode_75.medium.lowest_common_ancestor_of_a_binary_tree.kotlin
 
 class TreeNode(var `val`: Int = 0) {
     var left: TreeNode? = null
