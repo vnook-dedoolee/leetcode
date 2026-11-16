@@ -28,9 +28,3 @@ class Solution {
         return result
     }
 }
-
-fun main() {
-    val n = 6
-    val connections = arrayOf(intArrayOf(0, 1), intArrayOf(1, 3), intArrayOf(2, 3), intArrayOf(4, 0), intArrayOf(4, 5))
-    Solution().minReorder(n, connections)
-}
