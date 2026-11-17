@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/two-sum/description/
 
-package leetcode_75.easy.two_sum.kotlin
+package easy.two_sum.kotlin
 
 class Solution {
     fun twoSum(nums: IntArray, target: Int): IntArray {
