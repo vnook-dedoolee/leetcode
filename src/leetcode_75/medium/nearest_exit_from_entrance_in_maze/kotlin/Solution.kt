@@ -36,9 +36,3 @@ class Solution {
         return -1
     }
 }
-
-fun main() {
-    val maze = arrayOf(charArrayOf('+', '+', '.', '+'), charArrayOf('.', '.', '.', '+'), charArrayOf('+', '+', '+', '.'))
-    val entrance = intArrayOf(1, 2)
-    Solution().nearestExit(maze, entrance)
-}
