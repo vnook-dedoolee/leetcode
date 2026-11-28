@@ -2,6 +2,8 @@
 
 package quests.math.arithmetic_and_basic_reasoning.easy.can_make_arithmetic_progression_from_sequence.kotlin
 
+import kotlin.math.abs
+
 class Solution {
     fun canMakeArithmeticProgression(arr: IntArray): Boolean {
         if (arr.size <= 1) return false
